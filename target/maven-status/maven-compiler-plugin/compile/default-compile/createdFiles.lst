@@ -1,0 +1,10 @@
+com\achelous\mini\spring\annotation\RequestParam.class
+com\achelous\mini\spring\annotation\Autowire.class
+com\achelous\mini\demo\controller\MyAction.class
+com\achelous\mini\demo\service\impl\DemoServiceImpl.class
+com\achelous\mini\spring\servlet\DispatchServlet.class
+com\achelous\mini\spring\annotation\Controller.class
+com\achelous\mini\demo\controller\DemoAction.class
+com\achelous\mini\spring\annotation\Service.class
+com\achelous\mini\demo\service\IDemoService.class
+com\achelous\mini\spring\annotation\RequestMapping.class
